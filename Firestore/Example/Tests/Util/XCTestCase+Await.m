@@ -18,7 +18,7 @@
 
 #import <Foundation/Foundation.h>
 
-static const double kExpectationWaitSeconds = 10.0;
+static const double kExpectationWaitSeconds = 1000.0;
 
 @implementation XCTestCase (Await)
 

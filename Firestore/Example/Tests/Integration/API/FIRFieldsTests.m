@@ -18,6 +18,7 @@
 
 #import <XCTest/XCTest.h>
 
+#import "FirebaseFirestore/FIRTimestamp.h"
 #import "Firestore/Source/Core/FSTFirestoreClient.h"
 
 #import "Firestore/Example/Tests/Util/FSTIntegrationTestCase.h"
